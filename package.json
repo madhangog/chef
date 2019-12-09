@@ -1,0 +1,31 @@
+{
+  "name": "gof",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/VishalTennyson/gof.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/VishalTennyson/gof/issues"
+  },
+  "homepage": "https://gitlab.com/VishalTennyson/gof#README",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1",
+    "express-session": "^1.16.2",
+    "mongoose": "^5.6.10",
+    "nodemon": "^1.19.2",
+    "twilio-chat": "^3.3.3"
+  },
+  "devDependencies": {}
+}
